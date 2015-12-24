@@ -37,6 +37,7 @@ console.log('Event "' + event.subject + '"')
 });
 ```
 ``` vb-i
+'Declaration
 Public NotInheritable Class ForEachWithBodyFactory(Of T) _
 	Implements IActivityTemplateFactory
 ```
