@@ -1,7 +1,7 @@
 { 
     "method": "GET", 
-    "resourceFormat": "https://outlook.office365.com/api/v1.0/me/calendars/{calendar_id}", 
-    "requestUrl": "https://outlook.office365.com/api/v1.0/me/calendars/AAMkAGI2NGVhZTVlLTI1OGMtNDI4My1iZmE5LTA5OGJiZGEzMTc0YQBGAAAAAADUuTJK1K9aTpCdqXop_4NaBwCd9nJ-tVysQos2hTfspaWRAAAAAAEGAACd9nJ-tVysQos2hTfspaWRAAADTGuLAAA=", 
+    "resourceFormat": "https://outlook.office365.com/api/v1.0/me/calendars/{zhduantest_id}", 
+    "requestUrl": "https://outlook.office365.com/api/v1.0/me/calendars/openpublishzhduantestid", 
     "requestHeaders": { 
         "Accept": "application/json" 
     }, 
@@ -16,7 +16,7 @@
      "statusCode": 200, 
      "responseBody": { 
          "@odata.context": "https://outlook.office365.com/api/v1.0/$metadata#Me/Calendars/$entity", 
-         "@odata.id": "https://outlook.office365.com/api/v1.0/Users('alexd@a830edad9050849NDA1.onmicrosoft.com')/Calendars('AAMkAGI2NGVhZTVlLTI1OGMtNDI4My1iZmE5LTA5OGJiZGEzMTc0YQBGAAAAAADUuTJK1K9aTpCdqXop_4NaBwCd9nJ-tVysQos2hTfspaWRAAAAAAEGAACd9nJ-tVysQos2hTfspaWRAAADTGuLAAA=')", 
+         "@odata.id": "https://outlook.office365.com/api/v1.0/Users('alexd@a830edad9050849NDA1.onmicrosoft.com')/Calendars('openpublishzhduantestid')", 
          "@odata.etag": "W/\"nfZyf7VcrEKLNoU37KWlkQAAA0x0+w==\"", 
          "Id": "openpublishzhduantestid", 
          "Name": "zhduantest_id", 
