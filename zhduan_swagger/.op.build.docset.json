@@ -19,7 +19,7 @@
          "@odata.id": "https://outlook.office365.com/api/v1.0/Users('alexd@a830edad9050849NDA1.onmicrosoft.com')/Calendars('openpublishzhduantestid')", 
          "@odata.etag": "W/\"nfZyf7VcrEKLNoU37KWlkQAAA0x0+w==\"", 
          "Id": "openpublishzhduantestid", 
-         "Name": "zhduantest_id", 
+         "Name": "Calendar", 
          "ChangeKey": "nfZyf7VcrEKLNoU37KWlkQAAA0x0+w==" 
      } 
  } 
