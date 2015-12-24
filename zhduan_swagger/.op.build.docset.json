@@ -1,25 +1,25 @@
 {
     "method": "GET",
-    "resourceFormat": "https://outlook.office365.com/api/v1.0/me/calendars/{calendar_id}",
-    "requestUrl": "https://outlook.office365.com/api/v1.0/me/calendars/AAMkAG",
+    "resourceFormat": "https://int.msdn.microsoft.com/en-us/library/{page_id}",
+    "requestUrl": "https://int.msdn.microsoft.com/en-us/library/",
     "requestHeaders": {
         "Accept": "application/json"
     },
     "parameterDetails": [
         {
-            "name": "calendar_id",
+            "name": "page_id",
             "type": "string",
-            "description": "The calendar ID.",
-            "defaultValue": "AAMkAG"
+            "description": "The page ID",
+            "defaultValue": "w0x726c2(v=vs.110).aspx"
         }
     ],
     "statusCode": 203,
     "responseBody": {
-        "@odata.context": "https://outlook.office365.com/api/v1.0/$metadata#Me/Calendars/$entity",
-        "@odata.id": "https://outlook.office365.com/api/v1.0/Users('alexd@a830edad9050849NDA1.onmicrosoft.com')/Calendars('AAMkAG')",
+        "@odata.context": "https://int.msdn.microsoft.com/en-us/library",
+        "@odata.id": "https://int.msdn.microsoft.com/en-us/library/('w0x726c2(v=vs.110).aspx')",
         "@odata.etag": "W/\"nfZyf7VcrEKLNoU37KWlkQAAA0x0+w==\"",
-        "Id": "AAMkAG",
-        "Name": "Calendar",
+        "Id": "w0x726c2(v=vs.110).aspx",
+        "Name": "library",
         "ChangeKey": "nfZyf7VcrEKLNoU37KWlkQAAA0x0+w=="
     }
 }
