@@ -1,4 +1,4 @@
 ---
-redirect_url: demo_azure_all
+redirect_url: https://www.baidu.com
 ---
 # it is page for redirection.
