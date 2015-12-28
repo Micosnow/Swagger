@@ -1,6 +1,6 @@
 ---
 Title: Test For Jeallyn's REST API reference
-redirect_url: http://msdn.microsoft.com/virtualization/hyperv_on_windows/user_guide/checkpoints
+redirect_url: newRedicector
 ---
 
 # Outlook Calendar REST API reference
