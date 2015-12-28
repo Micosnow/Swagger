@@ -1,6 +1,6 @@
 ---
 Title: Test For Jeallyn's REST API reference
-redirect_url: https://int.msdn.microsoft.com/en-us/
+redirect_url: https://int.msdn.microsoft.com/en-us/powershell
 ---
 
 # Outlook Calendar REST API reference
